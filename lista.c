@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-
+hola heri
 #define MAX 25
 
 typedef struct nodo{
